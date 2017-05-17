@@ -1,2 +1,2 @@
 # i-predictor
-Forecast time series core 
+Prediction core of time series
